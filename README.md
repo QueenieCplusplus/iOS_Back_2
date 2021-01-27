@@ -45,6 +45,8 @@ Camera Feature: to touch screen to call the camera, and save image in photo lib
 
         }
         
+    ref: https://stackoverflow.com/questions/41717115/how-to-make-uiimagepickercontroller-for-camera-and-photo-library-at-the-same-tim
+        
 3. run iPhone Simulator.
 
   ![](https://raw.githubusercontent.com/QueenieCplusplus/iOS_Back_2/main/exception.png)
