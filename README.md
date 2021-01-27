@@ -5,6 +5,9 @@ Camera Feature: to touch screen to call the camera, and save image in photo lib
 
          Privacy - Camera Usage Description
          Privacy - Photo Lib Add Usage Description
+         
+         
+  ![](https://raw.githubusercontent.com/QueenieCplusplus/iOS_Back_2/main/info_property_list_2.png)
      
 2. code in ControllerView.
 
