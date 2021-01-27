@@ -51,6 +51,6 @@ Camera Feature: to touch screen to call the camera, and save image in photo lib
   
 4. Reason for Exception Error occured.
 
-
+  ![](https://raw.githubusercontent.com/QueenieCplusplus/iOS_Back_2/main/reason.png)
 
 
