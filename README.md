@@ -47,5 +47,10 @@ Camera Feature: to touch screen to call the camera, and save image in photo lib
         
 3. run iPhone Simulator.
 
+  ![](https://raw.githubusercontent.com/QueenieCplusplus/iOS_Back_2/main/exception.png)
+  
+4. Reason for Exception Error occured.
+
+
 
 
