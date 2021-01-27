@@ -8,6 +8,8 @@ Camera Feature: to touch screen to call the camera, and save image in photo lib
          
          
   ![](https://raw.githubusercontent.com/QueenieCplusplus/iOS_Back_2/main/info_property_list_2.png)
+  
+  ref: https://medium.com/彼得潘的-swift-ios-app-開發問題解答集/ios-10存取使用者私密資料都要加上usage-description-a01715e56491
      
 2. code in ControllerView.
 
